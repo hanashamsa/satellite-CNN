@@ -17,7 +17,7 @@ This project trains a convolutional neural network on labeled image folders, eva
 
 ## Files
 
-- `project_template(2).ipynb` — main notebook
+
 - `assets/plots/` — saved figures
 - `assets/weights/` — saved best model weights
 - `public_test_data/` — unlabeled test images
